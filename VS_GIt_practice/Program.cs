@@ -7,6 +7,7 @@ namespace VS_GIt_practice
         public static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            testing i = new testing();
         }
     }
 }
